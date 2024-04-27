@@ -1,0 +1,39 @@
+
+body {
+    background-color:aquamarine;
+}
+.f2 {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin-right: 30px;
+    margin-left: 50px;
+    background-color: rgb(248, 248, 195) !important;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px black;
+    transition: all 100ms;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    
+}
+
+
+.x {
+   padding-left: 10px;
+}
+.f2:hover {
+  box-shadow: 5px 8px 10px black;
+  transform: scale(1.1);
+}
+h1 {
+    color: blue;
+    background-color: black;
+    -webkit-text-stroke: 1px white;
+    
+}
+marquee {
+    background-color: black;
+}
+
+
